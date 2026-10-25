@@ -40,11 +40,8 @@ An interactive **Streamlit** web app that predicts whether a loan application wi
 
 ## 🖼️ Screenshots
 
-| Predict tab | Model comparison |
-|---|---|
-| `![Predict](<img width="1902" height="865" alt="Screenshot 2026-10-25 231125" src="https://github.com/user-attachments/assets/db64bc91-412c-4f46-a016-47c88fdba27b" />
-)` | `![Compare]<img width="1897" height="837" alt="image" src="https://github.com/user-attachments/assets/dba9b983-d413-43ca-9aab-8cf7622bfc9e" />
-` |
+ (<img width="1902" height="865" alt="Screenshot 2026-10-25 231125" src="https://github.com/user-attachments/assets/db64bc91-412c-4f46-a016-47c88fdba27b" />
+ <img width="1897" height="837" alt="image" src="https://github.com/user-attachments/assets/dba9b983-d413-43ca-9aab-8cf7622bfc9e" />
 
 ---
 
