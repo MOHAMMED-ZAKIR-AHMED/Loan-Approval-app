@@ -17,7 +17,7 @@ import streamlit as st
 # 1. CONFIG  (edit this section to match YOUR notebook)
 # =====================================================================
 st.set_page_config(page_title="Loan Lends | Loan Approval Predictor", page_icon="🏦", layout="wide")
-st.caption("👨‍💻 Built by [Zakir Ahmed](https://github.com/MOHAMMED-ZAKIR-AHMED)(https://www.linkedin.com/in/zakir00/)")
+st.caption("👨‍💻 Built by [Zakir Ahmed](https://www.linkedin.com/in/zakir00/)")
 
 # Save your models in the notebook like:  joblib.dump(logistic_model, "logistic_model.pkl")
 MODEL_FILES = {
